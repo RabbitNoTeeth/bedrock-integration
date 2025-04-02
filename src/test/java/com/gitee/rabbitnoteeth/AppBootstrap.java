@@ -1,4 +1,4 @@
-package com.gitee.rabbitnoteeth;
+package com.github.rabbitnoteeth;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
